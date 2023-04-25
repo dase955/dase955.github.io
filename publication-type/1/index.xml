@@ -5,7 +5,7 @@
     <link>https://dase955.github.io/publication-type/1/</link>
       <atom:link href="https://dase955.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 12 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://dase955.github.io/media/icon_hu13cf6dc0e04ee9706ea32ad80660b1e8_38926_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
@@ -13,38 +13,10 @@
     </image>
     
     <item>
-      <title>SAM: Database Generation from Query Workloads with Supervised Autoregressive Models</title>
-      <link>https://dase955.github.io/publication/sigmod22-sam/</link>
-      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://dase955.github.io/publication/sigmod22-sam/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Unsupervised Selectivity Estimation by Integrating Gaussian Mixture Models and an Autoregressive Model</title>
-      <link>https://dase955.github.io/publication/edbt22/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://dase955.github.io/publication/edbt22/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Unified Deep Model of Learning from both Data and Queries for Cardinality Estimation</title>
-      <link>https://dase955.github.io/publication/sigmod21-uae/</link>
-      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://dase955.github.io/publication/sigmod21-uae/</guid>
+      <title>Workload-Aware Log-Structured Merge Key-Value Store for NVM-SSD Hybrid Storage</title>
+      <link>https://dase955.github.io/publication/icde23-walsm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dase955.github.io/publication/icde23-walsm/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

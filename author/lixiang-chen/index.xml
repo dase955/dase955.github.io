@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Salty-Fish Database Lab</title>
-    <link>https://dase955.github.io/publication/</link>
-      <atom:link href="https://dase955.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>Lixiang Chen | Salty-Fish Database Lab</title>
+    <link>https://dase955.github.io/author/lixiang-chen/</link>
+      <atom:link href="https://dase955.github.io/author/lixiang-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lixiang Chen</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://dase955.github.io/media/icon_hu13cf6dc0e04ee9706ea32ad80660b1e8_38926_512x512_fill_lanczos_center_3.png</url>
-      <title>Publications</title>
-      <link>https://dase955.github.io/publication/</link>
+      <title>Lixiang Chen</title>
+      <link>https://dase955.github.io/author/lixiang-chen/</link>
     </image>
     
     <item>
