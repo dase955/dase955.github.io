@@ -1,0 +1,18 @@
+{
+  "name": "Salty-Fish Database Lab",
+  "short_name": "Salty-Fish Database Lab",
+  "lang": "en-us",
+  "theme_color": "#1565c0",
+  "background_color": "#1565c0",
+  "icons": [{
+    "src": "/media/icon_hu977496d800f0d840e643bbe9854d61d3_17236_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/media/icon_hu977496d800f0d840e643bbe9854d61d3_17236_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MO Songsong | Salty-Fish Database Lab</title>
+    <link>https://dase955.github.io/author/mo-songsong/</link>
+      <atom:link href="https://dase955.github.io/author/mo-songsong/index.xml" rel="self" type="application/rss+xml" />
+    <description>MO Songsong</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://dase955.github.io/author/mo-songsong/avatar_hu5480df4dde9b36145d4365c517f3545c_887454_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>MO Songsong</title>
+      <link>https://dase955.github.io/author/mo-songsong/</link>
+    </image>
+    
+  </channel>
+</rss>
