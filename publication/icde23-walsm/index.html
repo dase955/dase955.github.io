@@ -70,7 +70,7 @@
   
     
   
-  <meta name="description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum." />
+  <meta name="description" content="Workload-Aware Log-Structured Merge Key-Value Store for NVM-SSD Hybrid Storage." />
 
   
   <link rel="alternate" hreflang="en-us" href="https://dase955.github.io/publication/icde23-walsm/" />
@@ -274,8 +274,8 @@
   
 
   
-  <link rel="icon" type="image/png" href="/media/icon_hu13cf6dc0e04ee9706ea32ad80660b1e8_38926_32x32_fill_lanczos_center_3.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu13cf6dc0e04ee9706ea32ad80660b1e8_38926_180x180_fill_lanczos_center_3.png" />
+  <link rel="icon" type="image/png" href="/media/icon_hubc44afafa8003d217e0bb8b06d9b1074_9990_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hubc44afafa8003d217e0bb8b06d9b1074_9990_180x180_fill_lanczos_center_3.png" />
 
   <link rel="canonical" href="https://dase955.github.io/publication/icde23-walsm/" />
 
@@ -301,10 +301,10 @@
     <meta property="twitter:site" content="@wowchemy" />
     <meta property="twitter:creator" content="@wowchemy" />
   
-  <meta property="og:site_name" content="Salty-Fish Database Lab" />
+  <meta property="og:site_name" content="Welcome to our Lab" />
   <meta property="og:url" content="https://dase955.github.io/publication/icde23-walsm/" />
-  <meta property="og:title" content="Workload-Aware Log-Structured Merge Key-Value Store for NVM-SSD Hybrid Storage | Salty-Fish Database Lab" />
-  <meta property="og:description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum." /><meta property="og:image" content="https://dase955.github.io/publication/icde23-walsm/featured.jpg" />
+  <meta property="og:title" content="Workload-Aware Log-Structured Merge Key-Value Store for NVM-SSD Hybrid Storage | Welcome to our Lab" />
+  <meta property="og:description" content="Workload-Aware Log-Structured Merge Key-Value Store for NVM-SSD Hybrid Storage." /><meta property="og:image" content="https://dase955.github.io/publication/icde23-walsm/featured.jpg" />
     <meta property="twitter:image" content="https://dase955.github.io/publication/icde23-walsm/featured.jpg" /><meta property="og:locale" content="en-us" />
   
     
@@ -348,13 +348,13 @@
   
   "publisher": {
     "@type": "Organization",
-    "name": "Salty-Fish Database Lab",
+    "name": "Welcome to our Lab",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://dase955.github.io/media/icon_hu13cf6dc0e04ee9706ea32ad80660b1e8_38926_192x192_fill_lanczos_center_3.png"
+      "url": "https://dase955.github.io/media/icon_hubc44afafa8003d217e0bb8b06d9b1074_9990_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum."
+  "description": "Workload-Aware Log-Structured Merge Key-Value Store for NVM-SSD Hybrid Storage."
 }
 </script>
 
@@ -365,7 +365,7 @@
   
 
 
-  <title>Workload-Aware Log-Structured Merge Key-Value Store for NVM-SSD Hybrid Storage | Salty-Fish Database Lab</title>
+  <title>Workload-Aware Log-Structured Merge Key-Value Store for NVM-SSD Hybrid Storage | Welcome to our Lab</title>
 
   
   
@@ -460,7 +460,7 @@
 
       
       <div class="d-none d-lg-inline-flex">
-        <a class="navbar-brand" href="/">Salty-Fish Database Lab</a>
+        <a class="navbar-brand" href="/">Welcome to our Lab</a>
       </div>
       
 
@@ -473,7 +473,7 @@
 
       
       <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-        <a class="navbar-brand" href="/">Salty-Fish Database Lab</a>
+        <a class="navbar-brand" href="/">Welcome to our Lab</a>
       </div>
       
 
@@ -567,7 +567,7 @@
           
 
           <li class="nav-item">
-            <a class="nav-link " href="/people"><span>People</span></a>
+            <a class="nav-link " href="/people"><span>Members</span></a>
           </li>
 
           
@@ -851,7 +851,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.</p>
+    <p class="pub-abstract">The log-structured merge tree (LSM-tree) has been widely adopted as a backbone of modern key-value stores. However, the multiple exponentially increased levels of LSM-tree makes it suffer from high write amplification. Existing studies often improve the write performance by sacrificing the read performance, which is inefficient to make trade-offs between the update and search efficiency. In this paper, we exploit non-volatile memory (NVM) to address the write amplification issue for systems with NVM-SSD hybrid storage, and further propose a reinforcement learning method to navigate between update and search efficiency on the varying workloads. Specifically, we first propose a lightweight hot data identification method to efficiently capture access recency as well as frequency in NVM with relative large capacity. On this basis, we can eliminate different versions of frequently updated data in high-performance NVM without pushing them to SSD. To improve the data access locality and facilitate fine-grained index tuning in each level, we devise a virtual-split method to partition the key space gradually without extra write amplification. Finally, we propose a cost based Q- learning algorithm to adaptively tune the data organizations of each partition according to the changing access patterns. Ex- perimental results show that our approach outperforms existing methods by up to 2.67×.</p>
     
 
     
@@ -879,7 +879,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">In <em>Proceedings of the 2022 International Conference on Data Engineering</em></div>
+          <div class="col-12 col-md-9">In <em>Proceedings of the 2023 International Conference on Data Engineering</em></div>
         </div>
       </div>
       <div class="col-md-1"></div>
