@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Intelligent Database System Group</title>
+    <link>https://dase955.github.io/project/</link>
+      <atom:link href="https://dase955.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://dase955.github.io/media/icon_hubc44afafa8003d217e0bb8b06d9b1074_9990_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://dase955.github.io/project/</link>
+    </image>
+    
+  </channel>
+</rss>
